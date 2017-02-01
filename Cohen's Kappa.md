@@ -42,3 +42,10 @@ k >= 0.8 : Excellent Aggement<br>
 
 **Kappa Sensitivity :** True Positives<br>
 **Kappa Specificity :** False Negetives<br>
+
+**References:**<br>
+1. [Calculating Cohen's Kappa](https://www.youtube.com/watch?v=AfgFyzGGlto)<br>
+2. [Cohen's Kapps](https://en.wikipedia.org/wiki/Cohen's_kappa)<br>
+3. [Inter-rater Reliability](https://en.wikipedia.org/wiki/Inter-rater_reliability)<br>
+4. [Kappa in english](http://stats.stackexchange.com/questions/82162/kappa-statistic-in-plain-english)<br>
+
