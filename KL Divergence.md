@@ -1,4 +1,4 @@
-#Kullback–Leibler divergence
+# Kullback–Leibler divergence
 
 
 **What is Probability Distribution?**<br>
