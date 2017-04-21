@@ -1,4 +1,4 @@
-#Information Value and Weight of Evidence
+# Information Value and Weight of Evidence
 
 **What is Mutual Information?**<br>
 It is a way of summarizing much knowing the value of one random variable tells you about another random variable. 
